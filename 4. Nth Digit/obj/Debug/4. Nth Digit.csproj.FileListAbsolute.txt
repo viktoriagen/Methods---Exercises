@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\4. Nth Digit\bin\Debug\_4.Nth_Digit.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\4. Nth Digit\bin\Debug\_4.Nth_Digit.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\4. Nth Digit\bin\Debug\_4.Nth_Digit.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\4. Nth Digit\obj\Debug\_4.Nth_Digit.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\4. Nth Digit\obj\Debug\_4.Nth_Digit.pdb

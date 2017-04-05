@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\3. String Repeater\bin\Debug\_3.String_Repeater.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\3. String Repeater\bin\Debug\_3.String_Repeater.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\3. String Repeater\bin\Debug\_3.String_Repeater.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\3. String Repeater\obj\Debug\_3.String_Repeater.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\3. String Repeater\obj\Debug\_3.String_Repeater.pdb

@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\5. Integer to Base\bin\Debug\_5.Integer_to_Base.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\5. Integer to Base\bin\Debug\_5.Integer_to_Base.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\5. Integer to Base\bin\Debug\_5.Integer_to_Base.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\5. Integer to Base\obj\Debug\5. Integer to Base.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\5. Integer to Base\obj\Debug\_5.Integer_to_Base.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\5. Integer to Base\obj\Debug\_5.Integer_to_Base.pdb

@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\2. Min Method\bin\Debug\_2.Min_Method.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\2. Min Method\bin\Debug\_2.Min_Method.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\2. Min Method\bin\Debug\_2.Min_Method.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\2. Min Method\obj\Debug\_2.Min_Method.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\2. Min Method\obj\Debug\_2.Min_Method.pdb

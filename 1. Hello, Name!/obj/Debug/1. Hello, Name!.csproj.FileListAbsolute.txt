@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\1. Hello, Name!\bin\Debug\_1.Hello__Name_.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\1. Hello, Name!\bin\Debug\_1.Hello__Name_.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\1. Hello, Name!\bin\Debug\_1.Hello__Name_.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\1. Hello, Name!\obj\Debug\1. Hello, Name!.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\1. Hello, Name!\obj\Debug\_1.Hello__Name_.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Methods - Exercises\1. Hello, Name!\obj\Debug\_1.Hello__Name_.pdb
